@@ -11,3 +11,6 @@ This application generates a concise summary of input text. It utilizes natural 
 -Provides a user-friendly interface through a Streamlit application.
 
 -Supports customization of the summary length or desired level of detail.
+
+## Link to Application
+[Text Summarization Tool](https://text-summarization-bwjpr6vjffl.streamlit.app/)
